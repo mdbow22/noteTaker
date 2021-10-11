@@ -2,6 +2,9 @@
 const express = require('express');
 const path = require('path');
 
+//Import router
+const routes = require('./routes/routes')
+
 const PORT = process.env.port || 3001;
 
 const app = express();
@@ -12,6 +15,9 @@ app.use(express.urlencoded({ extended: true }));
 
 //Allow static files in the public folder
 app.use(express.static('public'));
+
+//use router for api requests
+app.use('/api/notes', routes);
 
 //GET route for homepage
 app.get('/', (req, res) => 
