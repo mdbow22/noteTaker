@@ -1,7 +1,6 @@
 //make this file a router
 const routes = require('express').Router();
 const fs = require('fs');
-const { parse } = require('path');
 const { v4: uuidv4 } = require('uuid');
 
 //import fs functions
