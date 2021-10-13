@@ -17,19 +17,19 @@ This will install all necessary dependencies.
 
 Users will be brought to a landing page initially:
 
-[insert screenshot here]
+![image of the landing page](https://github.com/mdbow22/noteTaker/blob/ce71b3c2ea8bfa2d428d312fc98671b399dade45/assets/landing_scrnsht.png)
 
 Once in the app, all saved notes appear on the left and on the right will be where you can add another note.
 
-[insert screenshot here]
+![image showing saved notes and blank note](https://github.com/mdbow22/noteTaker/blob/ce71b3c2ea8bfa2d428d312fc98671b399dade45/assets/notes_scrnshot.png)
 
 Once the note has both a title and body, a save icon appears to save the note.
 
-[insert screenshot here]
+![image showing the save icon that appears](https://github.com/mdbow22/noteTaker/blob/ce71b3c2ea8bfa2d428d312fc98671b399dade45/assets/save_scrnshot.png)
 
 Clicking on the trashcan in the left sidebar will delete that note.
 
-[insert screenshot here]
+![image of sidebar with notes and trashcans for deleting a note](https://github.com/mdbow22/noteTaker/blob/ce71b3c2ea8bfa2d428d312fc98671b399dade45/assets/delete_scrnshot.png)
 
 ## Demo
 
