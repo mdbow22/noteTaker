@@ -5,7 +5,7 @@ const path = require('path');
 //Import router
 const routes = require('./routes/routes')
 
-const PORT = process.env.port || 3001;
+const PORT = process.env.PORT || 3001;
 
 const app = express();
 
